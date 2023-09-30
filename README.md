@@ -1,6 +1,6 @@
 # AP-Computer-Science
 Was intended to be a collection of what I did in AP Computer Science
-The actual files were deleted when I attempted to transfer them from school's online drive
+The actual files were deleted when I attempted to transfer them from the school's online drive.
 
 Concepts covered: 
 - Introduction to data structures (Arrays, Lists, briefly Linked-Lists, Stacks, Queues)
