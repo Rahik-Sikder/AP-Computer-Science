@@ -11,6 +11,6 @@ Most notable project:
 Carcassonne
 - Given a set of carcassonne tiles with each edge being one of three different variety: a plain, road, or city
 - For tiles to be placed next to each other, the edges have to match
-- Used recursion and backtracking to place a shuffled bag of tiles in a valid 5 x 5 grid from the standard starting tile.
+- Used recursion and backtracking to place a shuffled bag of tiles in a valid 5 x 5 grid from the standard starting tile
 
 
